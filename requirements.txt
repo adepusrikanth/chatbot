@@ -63,7 +63,6 @@ setuptools             ==   46.1.3
 six                    ==   1.14.0           
 spacy                  ==   2.1.9            
 sqlalchemy             ==   1.2.19           
-sqlite                 ==   3.20.1           
 srsly                  ==   1.0.2            
 terminado              ==   0.8.3            
 testpath               ==   0.4.4            
