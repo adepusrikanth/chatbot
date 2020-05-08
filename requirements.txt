@@ -28,10 +28,6 @@ jupyter                ==   1.0.0
 jupyter_client         ==   6.1.2           
 jupyter_console        ==   6.1.0           
 jupyter_core           ==   4.6.3           
-m2w64-gcc-libs         ==   5.3.0           
-m2w64-gcc-libs-core    ==   5.3.0           
-m2w64-gmp              ==   6.1.0                        
-m2w64-libwinpthread-git==   5.0.0.4634.697f757            
 markupsafe             ==   1.1.1           
 mathparse              ==   0.1.2           
 mistune                ==   0.8.4           
