@@ -79,4 +79,4 @@ wheel                  ==   0.34.2
 widgetsnbextension     ==   3.5.1            
 wincertstore           ==   0.2              
 zipp                   ==   2.2.0            
-zlib                   ==   1.2.11           
+          
