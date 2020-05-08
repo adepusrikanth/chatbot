@@ -20,4 +20,5 @@ joblib==0.14.0
 chatterbot==1.0.5
 nltk==3.5
 db-sqlite3==0.0.1
-
+pip >= 1.4
+setuptools >= 0.8
