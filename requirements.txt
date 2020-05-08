@@ -48,7 +48,6 @@ prometheus_client      ==   0.7.1
 prompt-toolkit         ==   3.0.4           
 pygments               ==   2.6.1           
 pymongo                ==   3.10.1          
-pyqt                   ==   5.6.0           
 pyrsistent             ==   0.16.0          
 python                 ==   3.7.1           
 python-dateutil        ==   2.7.5           
