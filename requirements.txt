@@ -52,7 +52,7 @@ pyrsistent             ==   0.16.0
 python-dateutil        ==   2.7.5           
 pytz                   ==   2020.1          
 pywinpty               ==   0.5.7           
-pyyaml                 ==   3.13            
+pyyaml                 == 5.1            
 pyzmq                  ==   18.1.1          
 qtconsole              ==   4.7.3           
 qtpy                   ==   1.9.0            
