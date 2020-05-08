@@ -70,8 +70,7 @@ thinc                  ==   7.0.8
 tornado                ==   6.0.4            
 tqdm                   ==   4.45.0           
 traitlets              ==   4.3.3            
-urllib3                ==   1.25.9           
-vs2015_runtime         ==   14.16.27012      
+urllib3                ==   1.25.9               
 wasabi                 ==   0.6.0            
 wcwidth                ==   0.1.9            
 webencodings           ==   0.5.1            
