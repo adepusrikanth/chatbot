@@ -70,7 +70,6 @@ wheel                  >=   0.31.0
 widgetsnbextension     ==   3.5.1            
 wincertstore           ==   0.2              
 zipp                   ==   2.2.0            
-git+git://github.com/gunthercox/chatterbot-corpus@master#egg=chatterbot_corpus
 mathparse>=0.1,<0.2
 nltk>=3.2,<4.0
 pint>=0.8.1
