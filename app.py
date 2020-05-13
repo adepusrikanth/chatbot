@@ -13,5 +13,5 @@ def get_bot_response():
     userText = request.args.get('msg')
     return str(chatbot.get_response(userText))
 
-if __name__ == "__main__":
-    app.run() 
+if __name__== '__main__':
+   app.run(host='0.0.0.0',port=8080)
