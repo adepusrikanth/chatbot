@@ -14,6 +14,6 @@ tpot>=0.11.0
 seaborn==0.9.0
 cloudpickle>=0.6.0
 scikit-learn==0.22.0
-joblib==0.14.0
+joblib==1.2.0
 chatterbot==1.0.2
 nltk==3.5
